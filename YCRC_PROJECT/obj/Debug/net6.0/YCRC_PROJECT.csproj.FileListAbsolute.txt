@@ -64,3 +64,6 @@ D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\refint\YCRC_PROJECT.dll
 D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\YCRC_PROJECT.pdb
 D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\YCRC_PROJECT.genruntimeconfig.cache
 D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\ref\YCRC_PROJECT.dll
+D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\YCRC_PROJECT.RazorAssemblyInfo.cache
+D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\YCRC_PROJECT.RazorAssemblyInfo.cs
+D:\denny\YCRC_PROJECT\YCRC_PROJECT\obj\Debug\net6.0\YCRC_PROJECT.sourcelink.json
