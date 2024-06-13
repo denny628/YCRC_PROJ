@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\denny\\YCRC_PROJECT\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|d:\\denny\\ycrc_project\\ycrc_project\\view\\proj_a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|solutionrelative:ycrc_project\\view\\proj_a.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|d:\\denny\\ycrc_project\\ycrc_project\\controllers\\pro_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|solutionrelative:ycrc_project\\controllers\\pro_a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|d:\\denny\\ycrc_project\\ycrc_project\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|solutionrelative:ycrc_project\\model\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|d:\\denny\\ycrc_project\\ycrc_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|d:\\denny\\ycrc_project\\ycrc_project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|solutionrelative:ycrc_project\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|d:\\denny\\ycrc_project\\ycrc_project\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{432436EE-625D-4E65-BDCE-DD2CF70F095D}|YCRC_PROJECT\\YCRC_PROJECT.csproj|solutionrelative:ycrc_project\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,62 +38,74 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Model\\Model.cs",
+              "RelativeDocumentMoniker": "YCRC_PROJECT\\Model\\Model.cs",
+              "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Model\\Model.cs",
+              "RelativeToolTip": "YCRC_PROJECT\\Model\\Model.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:00:07.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PROJ_A.cshtml",
+              "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\View\\PROJ_A.cshtml",
+              "RelativeDocumentMoniker": "YCRC_PROJECT\\View\\PROJ_A.cshtml",
+              "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\View\\PROJ_A.cshtml",
+              "RelativeToolTip": "YCRC_PROJECT\\View\\PROJ_A.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-13T03:41:05.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "YCRC_PROJECT\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "YCRC_PROJECT\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABNAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T09:24:55.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PRO_A.cs",
               "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Controllers\\PRO_A.cs",
               "RelativeDocumentMoniker": "YCRC_PROJECT\\Controllers\\PRO_A.cs",
               "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Controllers\\PRO_A.cs",
               "RelativeToolTip": "YCRC_PROJECT\\Controllers\\PRO_A.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:24:12.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:24:12.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Program.cs",
               "RelativeDocumentMoniker": "YCRC_PROJECT\\Program.cs",
               "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Program.cs",
               "RelativeToolTip": "YCRC_PROJECT\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T09:17:42.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Model.cs",
-              "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Model.cs",
-              "RelativeDocumentMoniker": "YCRC_PROJECT\\Model.cs",
-              "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\Model.cs",
-              "RelativeToolTip": "YCRC_PROJECT\\Model.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:17:07.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\appsettings.json",
               "RelativeDocumentMoniker": "YCRC_PROJECT\\appsettings.json",
               "ToolTip": "D:\\denny\\YCRC_PROJECT\\YCRC_PROJECT\\appsettings.json",
               "RelativeToolTip": "YCRC_PROJECT\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-06-12T09:11:22.499Z"
             }

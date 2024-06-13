@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("YCRC_PROJECT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d9db65a93bfe44a5f03237888d9a93d15d26603")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a64aa1219afa686813cbaee70eaa65132c6852ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("YCRC_PROJECT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("YCRC_PROJECT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

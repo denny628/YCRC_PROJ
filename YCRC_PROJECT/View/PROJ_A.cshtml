@@ -1,7 +1,7 @@
 <!--
-  程式名稱:	
+  程式名稱:
   系統代號: PROJ_A
-  作    者: denny
+  @* 作    者: denny *@
   日    期: 2024/06/12
   說    明: CRUD
   Date        PG         Memo
@@ -11,9 +11,39 @@
     ViewBag.Title = "PROJ_A";
 }
 
-<div>
-    hello
-</div>
-<script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AngularJS API Call Example</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+</head>
+<body ng-app="myApp" ng-controller="ProductsController">
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <div>
+            <button type="button">新增</button>
+        </div>
+        <ul>
+            <li ng-repeat="product in products">{{ product }}</li>
+        </ul>
+    </div>
 
-</script>
+    <script>
+        var app = angular.module('myApp', []);
+
+        app.controller('ProductsController', function ($scope, $http) {
+            $scope.products = [];
+
+            $http.get('https://your-api-url/api/products')
+                .then(function (response) {
+                    $scope.products = response.data;
+                })
+                .catch(function (error) {
+                    console.error('Error fetching products:', error);
+                });
+        });
+    </script>
+</body>
+</html>
